@@ -1,0 +1,21 @@
+body{ 
+font-family: "Quattrocento Sans", sans-serif;
+
+ }
+
+
+ .navbar-reprograma{
+ 	background-color:#f4ffef;
+ }
+
+
+ #navbar-brand-nova{
+ 	height: 16px
+ 	margin-top:-6px;
+ }
+ h1,h2,h3  {
+ 	font-family: montserrat, sans-serif;
+ }
+
+
+ img { width: 200px; }
